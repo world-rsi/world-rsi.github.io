@@ -1,5 +1,3 @@
-# World-RSI: Robots That Build Worlds to Improve Themselves
+# world-rsi.github.io
 
-Project page: https://world-rsi.github.io/ (https://worldrsi.github.io/ redirects here).
-
-The page is currently a placeholder; the full project page will go live with the paper.
+Redirects to the WorldRSI project page at https://worldrsi.github.io/ (path, query and anchor are preserved; `404.html` handles deep links).
